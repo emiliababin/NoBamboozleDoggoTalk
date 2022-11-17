@@ -1,0 +1,15 @@
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\bin\Debug\net7.0\PjeskiNieKreski.exe
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\bin\Debug\net7.0\PjeskiNieKreski.deps.json
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\bin\Debug\net7.0\PjeskiNieKreski.runtimeconfig.json
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\bin\Debug\net7.0\PjeskiNieKreski.dll
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\bin\Debug\net7.0\PjeskiNieKreski.pdb
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.csproj.AssemblyReference.cache
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.AssemblyInfoInputs.cache
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.AssemblyInfo.cs
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.csproj.CoreCompileInputs.cache
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.dll
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\refint\PjeskiNieKreski.dll
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.pdb
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\PjeskiNieKreski.genruntimeconfig.cache
+D:\Programy\PjeskiNieKreski\PjeskiNieKreski\obj\Debug\net7.0\ref\PjeskiNieKreski.dll
