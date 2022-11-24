@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programy\\PjeskiNieKreski\\PjeskiNieKreski\\PjeskiNieKreski.csproj",
+      "projectUniqueName": "D:\\Programy\\PjeskiNieKreski\\NoBamboozleDoggoTalk\\PjeskiNieKreski\\PjeskiNieKreski.csproj",
       "projectName": "PjeskiNieKreski",
-      "projectPath": "D:\\Programy\\PjeskiNieKreski\\PjeskiNieKreski\\PjeskiNieKreski.csproj",
+      "projectPath": "D:\\Programy\\PjeskiNieKreski\\NoBamboozleDoggoTalk\\PjeskiNieKreski\\PjeskiNieKreski.csproj",
       "packagesPath": "C:\\Users\\gniew\\.nuget\\packages\\",
-      "outputPath": "D:\\Programy\\PjeskiNieKreski\\PjeskiNieKreski\\obj\\",
+      "outputPath": "D:\\Programy\\PjeskiNieKreski\\NoBamboozleDoggoTalk\\PjeskiNieKreski\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
